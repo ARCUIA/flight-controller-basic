@@ -312,7 +312,7 @@
 	)
 	(symbol
 		(lib_id "Sensor_Magnetic:LIS2MDL")
-		(at 45.72 50.8 0)
+		(at 43.18 44.45 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -320,7 +320,7 @@
 		(dnp no)
 		(uuid "cb00b9d2-1415-4a31-8533-386230a9df9d")
 		(property "Reference" "U2"
-			(at 53.594 39.624 0)
+			(at 51.054 33.274 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -329,7 +329,7 @@
 			)
 		)
 		(property "Value" "LIS2MDL"
-			(at 48.514 62.23 0)
+			(at 45.72 55.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -338,7 +338,7 @@
 			)
 		)
 		(property "Footprint" "Package_LGA:LGA-12_2x2mm_P0.5mm"
-			(at 76.2 58.42 0)
+			(at 73.66 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -347,7 +347,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lis2mdl.pdf"
-			(at 83.82 60.96 0)
+			(at 81.28 54.61 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -356,7 +356,7 @@
 			)
 		)
 		(property "Description" "Ultra-low-power, 3-axis digital output magnetometer, LGA-12"
-			(at 45.72 50.8 0)
+			(at 43.18 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
