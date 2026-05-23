@@ -1446,6 +1446,94 @@
 		)
 		(uuid "edfe42af-a795-4ff8-b8b8-50a8fb2513eb")
 	)
+	(global_label "SCK"
+		(shape input)
+		(at 148.59 72.39 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "0a52b8e8-27c7-43ea-b521-1af07c9241ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 155.3247 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MAG_CS"
+		(shape input)
+		(at 148.59 69.85 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "135960a9-82f3-4fa6-938e-7dcd112b64ee")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.8323 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MISO"
+		(shape input)
+		(at 148.59 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "89cb0e4d-6348-4700-aec8-6e6b84abade2")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.1714 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MOSI"
+		(shape input)
+		(at 148.59 77.47 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f43aaa5c-a320-4f0b-85fd-01b672c14329")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.1714 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(symbol
 		(lib_id "MCU_ST_STM32F1:STM32F103C8Tx")
 		(at 130.81 92.71 0)
