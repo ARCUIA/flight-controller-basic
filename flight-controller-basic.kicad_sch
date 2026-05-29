@@ -6,6 +6,49 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 34.29 66.04)
+		(size 30.48 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "15ccaa96-ad63-4a4d-bfcd-1e00695c7116")
+		(property "Sheetname" "sensors"
+			(at 34.29 65.3284 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sensors.kicad_sch"
+			(at 34.29 92.0246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(instances
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 34.29 34.29)
 		(size 29.21 25.4)
 		(exclude_from_sim no)
@@ -37,6 +80,7 @@
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
@@ -48,8 +92,8 @@
 		)
 	)
 	(sheet
-		(at 93.98 34.29)
-		(size 27.94 25.4)
+		(at 34.29 96.52)
+		(size 30.48 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -62,9 +106,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "bae430cb-0c9f-4691-9dd7-9716141b7e53")
-		(property "Sheetname" "Sensors"
-			(at 93.98 33.5784 0)
+		(uuid "b4834b5b-b996-42c5-8845-3420b87a7a0c")
+		(property "Sheetname" "GPS"
+			(at 34.29 95.8084 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -72,19 +116,20 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "sensors.kicad_sch"
-			(at 93.98 60.2746 0)
+		(property "Sheetfile" "omnia_FC_2026/IMU_FC_G/GP_GPS/GP_GPS.kicad_sch"
+			(at 34.29 123.7746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left top)
+				(hide yes)
 			)
 		)
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "3")
+					(page "4")
 				)
 			)
 		)
