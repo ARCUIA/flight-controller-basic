@@ -619,16 +619,12 @@
       "STM32 Micro Controller"
     ],
     [
-      "dfe70cd6-93ac-4ec5-b891-c77c33ef8677",
+      "15ccaa96-ad63-4a4d-bfcd-1e00695c7116",
+      "sensors"
+    ],
+    [
+      "b4834b5b-b996-42c5-8845-3420b87a7a0c",
       "GPS"
-    ],
-    [
-      "26da8c72-585c-4186-816d-b3c1acee8ee0",
-      "SENSORS"
-    ],
-    [
-      "fc4261dc-2c8b-4c5e-8a0d-31689d06cccc",
-      "USB-C"
     ]
   ],
   "text_variables": {}
