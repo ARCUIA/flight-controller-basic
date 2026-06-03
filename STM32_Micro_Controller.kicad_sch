@@ -1644,28 +1644,6 @@
 			)
 		)
 	)
-	(global_label "UART_OpenLager_TX"
-		(shape input)
-		(at 148.59 67.31 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "eda5f4bb-9cc8-4870-8e15-5c8ef5a071f9")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 170.2622 67.31 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MAG_MOSI"
 		(shape input)
 		(at 148.59 77.47 0)
