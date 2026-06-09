@@ -48,6 +48,90 @@
 		)
 	)
 	(sheet
+		(at 77.47 64.77)
+		(size 29.21 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "3b032c70-d05c-4767-aded-afe42be75458")
+		(property "Sheetname" "BARO"
+			(at 77.47 64.0584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bomboclat-barometer.kicad_sch"
+			(at 77.47 89.4846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 77.47 102.87)
+		(size 31.75 24.13)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8f3c10af-0dfe-45e5-9dde-cd3bf089277e")
+		(property "Sheetname" "RADIO"
+			(at 77.47 102.1584 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "RADIO_G/RADIO_G.kicad_sch"
+			(at 77.47 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 34.29 34.29)
 		(size 29.21 25.4)
 		(exclude_from_sim no)
