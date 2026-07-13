@@ -1680,7 +1680,7 @@
 			)
 		)
 	)
-	(global_label "INT1"
+	(global_label "IMU_INT1"
 		(shape input)
 		(at 83.82 110.49 0)
 		(fields_autoplaced yes)
@@ -1692,7 +1692,7 @@
 		)
 		(uuid "2a7ad31c-5fb4-4cd9-b792-ffbe097c0c05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.9176 110.49 0)
+			(at 95.2719 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1702,7 +1702,7 @@
 			)
 		)
 	)
-	(global_label "SDA"
+	(global_label "IMU_MOSI"
 		(shape input)
 		(at 48.26 105.41 180)
 		(fields_autoplaced yes)
@@ -1714,7 +1714,7 @@
 		)
 		(uuid "370dd2d7-d373-445c-98af-2e1c119f6d7e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.7067 105.41 0)
+			(at 36.3243 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1790,7 +1790,7 @@
 			)
 		)
 	)
-	(global_label "SDO"
+	(global_label "IMU_MISO"
 		(shape input)
 		(at 83.82 100.33 0)
 		(fields_autoplaced yes)
@@ -1802,7 +1802,7 @@
 		)
 		(uuid "b8ca7996-947c-4ed8-b175-d9e73b8d865d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 90.6152 100.33 0)
+			(at 95.7557 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1812,7 +1812,7 @@
 			)
 		)
 	)
-	(global_label "SCL"
+	(global_label "IMU_SCK"
 		(shape input)
 		(at 48.26 102.87 180)
 		(fields_autoplaced yes)
@@ -1824,7 +1824,7 @@
 		)
 		(uuid "e60d6c42-8e0b-48b6-b55a-8f8313451d09")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.7672 102.87 0)
+			(at 37.171 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
