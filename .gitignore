@@ -1,0 +1,12 @@
+﻿# KiCad temporary/lock files
+*.lck
+~*.kicad_sch.lck
+
+# KiCad backup files
+*-backups/
+
+# Old/nested project copy
+flight-controller-basic/
+
+# Separate project/workspace
+omnia_FC_2026/
