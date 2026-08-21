@@ -156,7 +156,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "C:/Users/omn08/Downloads/omnia_FC_2026/IMU_FC_G/GP_GPS/GP_GPS.kicad_sch"
+		(property "Sheetfile" "omnia_FC_2026/IMU_FC_G/GP_GPS/GP_GPS.kicad_sch"
 			(at 34.29 94.5646 0)
 			(effects
 				(font
