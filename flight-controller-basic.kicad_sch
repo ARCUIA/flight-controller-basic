@@ -6,6 +6,48 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
+		(at 77.47 100.33)
+		(size 30.48 26.67)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1772bb2a-be08-410e-8d4b-a91b7731fae6")
+		(property "Sheetname" "SD"
+			(at 77.47 99.6184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "basic_flight_controller_SD.kicad_sch"
+			(at 77.47 127.5846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet
 		(at 34.29 100.33)
 		(size 29.21 26.67)
 		(exclude_from_sim no)
@@ -84,7 +126,7 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "7")
+					(page "6")
 				)
 			)
 		)
