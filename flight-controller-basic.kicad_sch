@@ -6,7 +6,7 @@
 	(paper "A4")
 	(lib_symbols)
 	(sheet
-		(at 77.47 100.33)
+		(at 74.93 68.58)
 		(size 30.48 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -22,7 +22,7 @@
 		)
 		(uuid "1772bb2a-be08-410e-8d4b-a91b7731fae6")
 		(property "Sheetname" "SD"
-			(at 77.47 99.6184 0)
+			(at 74.93 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -31,7 +31,7 @@
 			)
 		)
 		(property "Sheetfile" "basic_flight_controller_SD.kicad_sch"
-			(at 77.47 127.5846 0)
+			(at 74.93 95.8346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -42,13 +42,13 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "7")
+					(page "6")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 34.29 100.33)
+		(at 34.29 68.58)
 		(size 29.21 26.67)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -64,7 +64,7 @@
 		)
 		(uuid "26da8c72-585c-4186-816d-b3c1acee8ee0")
 		(property "Sheetname" "SENSORS"
-			(at 34.29 99.6184 0)
+			(at 34.29 67.8684 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -73,7 +73,7 @@
 			)
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
-			(at 34.29 127.5846 0)
+			(at 34.29 95.8346 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -84,13 +84,13 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "4")
+					(page "3")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 77.47 66.04)
+		(at 76.2 35.56)
 		(size 31.75 24.13)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -106,7 +106,7 @@
 		)
 		(uuid "8f3c10af-0dfe-45e5-9dde-cd3bf089277e")
 		(property "Sheetname" "RADIO"
-			(at 77.47 65.3284 0)
+			(at 76.2 34.8484 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -115,7 +115,7 @@
 			)
 		)
 		(property "Sheetfile" "RADIO_G/RADIO_G.kicad_sch"
-			(at 77.47 90.7546 0)
+			(at 76.2 60.2746 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -126,7 +126,7 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "6")
+					(page "5")
 				)
 			)
 		)
@@ -174,49 +174,7 @@
 		)
 	)
 	(sheet
-		(at 34.29 66.04)
-		(size 29.21 27.94)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "dfe70cd6-93ac-4ec5-b891-c77c33ef8677")
-		(property "Sheetname" "GPS"
-			(at 34.29 65.3284 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "omnia_FC_2026/IMU_FC_G/GP_GPS/GP_GPS.kicad_sch"
-			(at 34.29 94.5646 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "flight-controller-basic"
-				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "3")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 77.47 33.02)
+		(at 34.29 102.87)
 		(size 29.21 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -232,7 +190,7 @@
 		)
 		(uuid "fc4261dc-2c8b-4c5e-8a0d-31689d06cccc")
 		(property "Sheetname" "USB-C"
-			(at 77.47 32.3084 0)
+			(at 34.29 102.1584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -241,7 +199,7 @@
 			)
 		)
 		(property "Sheetfile" "FC_USB-C_G/FC_USB-C_G.kicad_sch"
-			(at 77.47 59.0046 0)
+			(at 34.29 128.8546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -252,7 +210,7 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
