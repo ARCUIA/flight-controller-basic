@@ -790,7 +790,7 @@
 			(uuid "73a03649-c353-455a-8555-0fba52726cbd")
 		)
 		(instances
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/1772bb2a-be08-410e-8d4b-a91b7731fae6"
 					(reference "#PWR09")
 					(unit 1)
@@ -856,7 +856,7 @@
 			(uuid "7e20dd90-15eb-40ae-af12-6b8fcd77ef85")
 		)
 		(instances
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/1772bb2a-be08-410e-8d4b-a91b7731fae6"
 					(reference "#PWR010")
 					(unit 1)
@@ -946,7 +946,7 @@
 			(uuid "a034f32a-126f-4bef-98e2-6fe9a6a511d2")
 		)
 		(instances
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/1772bb2a-be08-410e-8d4b-a91b7731fae6"
 					(reference "J1")
 					(unit 1)

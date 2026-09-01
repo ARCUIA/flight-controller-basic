@@ -1288,6 +1288,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
+					(reference "R3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1350,6 +1356,12 @@
 		(instances
 			(project ""
 				(path "/95e175df-c8d2-4720-9c88-f668b962e457"
+					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
 					(reference "#PWR03")
 					(unit 1)
 				)
@@ -1421,6 +1433,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
+					(reference "R2")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1483,6 +1501,12 @@
 		(instances
 			(project ""
 				(path "/95e175df-c8d2-4720-9c88-f668b962e457"
+					(reference "#PWR01")
+					(unit 1)
+				)
+			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
 					(reference "#PWR01")
 					(unit 1)
 				)
@@ -1600,6 +1624,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
+					(reference "J1")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1670,12 +1700,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/fc4261dc-2c8b-4c5e-8a0d-31689d06cccc"
+					(reference "R1")
+					(unit 1)
+				)
+			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )

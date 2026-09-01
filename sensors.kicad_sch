@@ -3382,7 +3382,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C5")
 					(unit 1)
@@ -3455,7 +3455,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C6")
 					(unit 1)
@@ -3659,7 +3659,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "#PWR06")
 					(unit 1)
@@ -3998,7 +3998,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C2")
 					(unit 1)
@@ -4138,7 +4138,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "#PWR07")
 					(unit 1)
@@ -4213,7 +4213,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C1")
 					(unit 1)
@@ -4576,7 +4576,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "#PWR08")
 					(unit 1)
@@ -4649,7 +4649,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C4")
 					(unit 1)
@@ -4754,7 +4754,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "U4")
 					(unit 1)
@@ -5229,7 +5229,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "U3")
 					(unit 1)
@@ -5302,7 +5302,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "C3")
 					(unit 1)
@@ -5374,7 +5374,7 @@
 					(unit 1)
 				)
 			)
-			(project "sensors"
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/26da8c72-585c-4186-816d-b3c1acee8ee0"
 					(reference "#PWR05")
 					(unit 1)

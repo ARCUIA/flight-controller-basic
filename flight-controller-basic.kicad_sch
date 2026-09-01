@@ -114,7 +114,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "RADIO_G/RADIO_G.kicad_sch"
+		(property "Sheetfile" "RADIO_G.kicad_sch"
 			(at 76.2 60.2746 0)
 			(effects
 				(font
@@ -198,7 +198,7 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "FC_USB-C_G/FC_USB-C_G.kicad_sch"
+		(property "Sheetfile" "FC_USB-C_G.kicad_sch"
 			(at 34.29 128.8546 0)
 			(effects
 				(font

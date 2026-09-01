@@ -713,7 +713,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d8747ed-e31d-4acb-8e61-bdb2f0428792")
-		(property "Reference" "C1"
+		(property "Reference" "C12"
 			(at 130.81 92.7099 0)
 			(effects
 				(font
@@ -771,7 +771,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
 					(reference "C12")
 					(unit 1)
@@ -846,6 +846,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
+					(reference "C3")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -858,7 +864,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60533fd6-af23-4cfc-9606-1c17ec36bbb3")
-		(property "Reference" "#PWR01"
+		(property "Reference" "#PWR019"
 			(at 100.33 116.84 0)
 			(effects
 				(font
@@ -912,7 +918,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
 					(reference "#PWR019")
 					(unit 1)
@@ -930,7 +936,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "64d20740-4e1f-46a7-b016-e3dbbff14d8d")
-		(property "Reference" "U1"
+		(property "Reference" "U6"
 			(at 146.05 80.0099 0)
 			(effects
 				(font
@@ -997,7 +1003,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
 					(reference "U6")
 					(unit 1)
@@ -1069,6 +1075,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
 		)
 	)
 	(symbol
@@ -1081,7 +1093,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a7cd26cf-8a5e-4f9f-b950-e980a944ce0a")
-		(property "Reference" "#PWR03"
+		(property "Reference" "#PWR017"
 			(at 100.33 87.63 0)
 			(effects
 				(font
@@ -1135,7 +1147,7 @@
 					(unit 1)
 				)
 			)
-			(project ""
+			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
 					(reference "#PWR017")
 					(unit 1)
@@ -1210,12 +1222,12 @@
 					(unit 1)
 				)
 			)
+			(project "flight-controller-basic"
+				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a/8f3c10af-0dfe-45e5-9dde-cd3bf089277e"
+					(reference "C2")
+					(unit 1)
+				)
+			)
 		)
 	)
-	(sheet_instances
-		(path "/"
-			(page "1")
-		)
-	)
-	(embedded_fonts no)
 )
