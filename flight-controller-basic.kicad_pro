@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "flight-controller-basic.kicad_pro",
+    "filename": "flight-controller-basic (1).kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -619,6 +619,10 @@
       "STM32 Micro Controller"
     ],
     [
+      "dfe70cd6-93ac-4ec5-b891-c77c33ef8677",
+      "GPS"
+    ],
+    [
       "26da8c72-585c-4186-816d-b3c1acee8ee0",
       "SENSORS"
     ],
@@ -629,10 +633,6 @@
     [
       "8f3c10af-0dfe-45e5-9dde-cd3bf089277e",
       "RADIO"
-    ],
-    [
-      "1772bb2a-be08-410e-8d4b-a91b7731fae6",
-      "SD"
     ]
   ],
   "text_variables": {}
