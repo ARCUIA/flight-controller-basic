@@ -1572,7 +1572,7 @@
 		)
 		(uuid "edfe42af-a795-4ff8-b8b8-50a8fb2513eb")
 	)
-	(global_label "MAG_SCK"
+	(global_label "MEMS_SCK"
 		(shape input)
 		(at 148.59 72.39 0)
 		(fields_autoplaced yes)
@@ -1584,7 +1584,7 @@
 		)
 		(uuid "0a52b8e8-27c7-43ea-b521-1af07c9241ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.1023 72.39 0)
+			(at 161.5536 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,6 +1638,28 @@
 			)
 		)
 	)
+	(global_label "BAR_CS"
+		(shape input)
+		(at 148.59 67.31 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "24f4af4d-990f-41b7-8ce5-7fbbd2b6294e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.6509 67.31 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "SD_CS"
 		(shape input)
 		(at 113.03 110.49 180)
@@ -1651,28 +1673,6 @@
 		(uuid "363cecdc-026e-43f9-bc0a-dfd5cc0b7662")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 104.1182 110.49 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IMU_MISO"
-		(shape input)
-		(at 113.03 123.19 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "530e549c-b681-4d43-9f43-6d59a008c930")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.0943 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1748,7 +1748,7 @@
 			)
 		)
 	)
-	(global_label "MAG_MISO"
+	(global_label "MEMS_MISO"
 		(shape input)
 		(at 148.59 74.93 0)
 		(fields_autoplaced yes)
@@ -1760,12 +1760,56 @@
 		)
 		(uuid "89cb0e4d-6348-4700-aec8-6e6b84abade2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.949 74.93 0)
+			(at 162.4003 74.93 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "IMU_CS"
+		(shape input)
+		(at 148.59 64.77 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8db57c9e-111a-4e99-8350-bf17fd74c68e")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 158.409 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "SD_MISO"
+		(shape input)
+		(at 113.03 123.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9aab7806-a124-4005-8b26-aa69603186f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 102.0015 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -1792,29 +1836,7 @@
 			)
 		)
 	)
-	(global_label "SD_CLK"
-		(shape input)
-		(at 148.59 59.69 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "be51a829-126f-49cd-9bcb-80b04356029b")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 158.5904 59.69 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IMU_MOSI"
+	(global_label "SD_MOSI"
 		(shape input)
 		(at 113.03 125.73 180)
 		(fields_autoplaced yes)
@@ -1824,9 +1846,9 @@
 			)
 			(justify right)
 		)
-		(uuid "c63aed85-9e57-46bd-822c-00636a5de54f")
+		(uuid "a8739c6c-8f26-4888-b2fa-b9d6b2bb8bd6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.0943 125.73 0)
+			(at 102.0015 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1836,46 +1858,24 @@
 			)
 		)
 	)
-	(global_label "SD_MISO"
+	(global_label "SD_SCK"
 		(shape input)
-		(at 148.59 67.31 0)
+		(at 113.03 120.65 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "ce0952c5-8a0b-4803-a245-47e239217156")
+		(uuid "d81c2c7e-fbfd-4178-86de-fef757680d6d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.6185 67.31 0)
+			(at 102.8482 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "SD_MOSI"
-		(shape input)
-		(at 148.59 64.77 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "d777f453-be5f-4d94-bd8a-60ab2f2165ff")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 159.6185 64.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -1902,51 +1902,7 @@
 			)
 		)
 	)
-	(global_label "IMU_CS"
-		(shape input)
-		(at 113.03 90.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ed2f198e-ab5a-482f-9369-bf50fe0a0eea")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 103.211 90.17 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "IMU_SCK"
-		(shape input)
-		(at 113.03 120.65 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "f4185674-f406-4a70-abda-d0ce4120ec2e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 101.941 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MAG_MOSI"
+	(global_label "MEMS_MOSI"
 		(shape input)
 		(at 148.59 77.47 0)
 		(fields_autoplaced yes)
@@ -1958,7 +1914,7 @@
 		)
 		(uuid "f43aaa5c-a320-4f0b-85fd-01b672c14329")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 160.949 77.47 0)
+			(at 162.4003 77.47 0)
 			(effects
 				(font
 					(size 1.27 1.27)

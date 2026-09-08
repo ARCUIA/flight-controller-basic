@@ -42,7 +42,7 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "6")
+					(page "5")
 				)
 			)
 		)
@@ -126,7 +126,7 @@
 		(instances
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "5")
+					(page "4")
 				)
 			)
 		)
@@ -169,48 +169,6 @@
 			(project "flight-controller-basic"
 				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
 					(page "2")
-				)
-			)
-		)
-	)
-	(sheet
-		(at 34.29 102.87)
-		(size 29.21 25.4)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(stroke
-			(width 0.1524)
-			(type solid)
-		)
-		(fill
-			(color 0 0 0 0.0000)
-		)
-		(uuid "fc4261dc-2c8b-4c5e-8a0d-31689d06cccc")
-		(property "Sheetname" "USB-C"
-			(at 34.29 102.1584 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left bottom)
-			)
-		)
-		(property "Sheetfile" "FC_USB-C_G.kicad_sch"
-			(at 34.29 128.8546 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-			)
-		)
-		(instances
-			(project "flight-controller-basic"
-				(path "/e04fbe87-dc7c-407c-abef-b71ed1bbe06a"
-					(page "4")
 				)
 			)
 		)
