@@ -2314,16 +2314,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "The Barometer shares the MOSI and MISO pins with the Magnetometer"
-		(exclude_from_sim no)
-		(at 160.02 29.972 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "b18224b6-3c87-44c1-a246-42de05355a27")
-	)
 	(text_box "Aluminum"
 		(exclude_from_sim no)
 		(at 85.09 29.21 0)

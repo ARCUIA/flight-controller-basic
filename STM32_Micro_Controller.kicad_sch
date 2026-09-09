@@ -1666,7 +1666,7 @@
 			)
 		)
 		(property "Value" "STM32F103C8T6"
-			(at 105.156 121.666 0)
+			(at 105.41 124.206 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
