@@ -1,7 +1,7 @@
 (kicad_sch
-	(version 20250114)
+	(version 20260306)
 	(generator "eeschema")
-	(generator_version "9.0")
+	(generator_version "10.0")
 	(uuid "e04fbe87-dc7c-407c-abef-b71ed1bbe06a")
 	(paper "A4")
 	(lib_symbols)
@@ -18,11 +18,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "1772bb2a-be08-410e-8d4b-a91b7731fae6")
 		(property "Sheetname" "SD"
 			(at 74.93 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,6 +34,8 @@
 		)
 		(property "Sheetfile" "basic_flight_controller_SD.kicad_sch"
 			(at 74.93 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -60,11 +64,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "26da8c72-585c-4186-816d-b3c1acee8ee0")
 		(property "Sheetname" "SENSORS"
 			(at 34.29 67.8684 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -74,6 +80,8 @@
 		)
 		(property "Sheetfile" "sensors.kicad_sch"
 			(at 34.29 95.8346 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -102,11 +110,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "8f3c10af-0dfe-45e5-9dde-cd3bf089277e")
 		(property "Sheetname" "RADIO"
 			(at 76.2 34.8484 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -116,6 +126,8 @@
 		)
 		(property "Sheetfile" "RADIO_G.kicad_sch"
 			(at 76.2 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -144,11 +156,13 @@
 			(type solid)
 		)
 		(fill
-			(color 0 0 0 0.0000)
+			(color 0 0 0 0)
 		)
 		(uuid "9ed827cc-d6ed-4e01-b191-8b39b0ab77a8")
 		(property "Sheetname" "STM32 Micro Controller"
 			(at 34.29 33.5784 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -158,6 +172,8 @@
 		)
 		(property "Sheetfile" "STM32_Micro_Controller.kicad_sch"
 			(at 34.29 60.2746 0)
+			(show_name no)
+			(do_not_autoplace no)
 			(effects
 				(font
 					(size 1.27 1.27)
